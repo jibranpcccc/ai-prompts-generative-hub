@@ -1,0 +1,16 @@
+# AI Prompt Engineering & GenAI Hub
+> Verified directory and real-time knowledge base of online communities for generative AI, Midjourney prompt engineering, ChatGPT workflows, Stable Diffusion, and LLM hacking.
+
+## Key Navigation
+- [AI Prompt Engineering & GenAI Hub Directory](https://jibranpcccc.github.io/ai-prompts-generative-hub/): Searchable, filterable database of verified communities across Discord, Telegram, WhatsApp, and Reddit.
+- [XML Sitemap](https://jibranpcccc.github.io/ai-prompts-generative-hub/sitemap.xml): Complete machine-readable URL index and crawling priority directives.
+- [RSS Syndication Feed](https://jibranpcccc.github.io/ai-prompts-generative-hub/feed.xml): Real-time syndication feed for newly discovered groups and platform updates.
+
+## Coverage
+- Discord Servers: Real-time discussions, voice channels, events, and sub-groups.
+- Telegram Channels & Groups: Instant alerts, announcements, and peer chats.
+- WhatsApp Groups: Focused cohorts and regional professional networks.
+- Reddit Subreddits: Community threads, wiki guides, and discussions.
+
+## Quality & Verification
+All listed channels undergo authentication checks, link liveness verification, and member activity monitoring.
