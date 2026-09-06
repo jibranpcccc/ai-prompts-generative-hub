@@ -1,512 +1,422 @@
 [
   {
-    "id": "ai-prompt-engineering-&-genai-hub-telegram-1",
-    "title": "Midjourney Global Telegram Hub",
-    "platform": "Telegram",
+    "title": "r/ChatGPT Community",
+    "platform": "Reddit",
+    "category": "Chatgpt Prompts",
+    "memberCount": "5,400,000+ members",
+    "description": "World's largest ChatGPT community for prompt engineering, workflow automation, custom GPT showcases, and OpenAI model discussions.",
+    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "tags": [
+      "chatgpt",
+      "prompt-engineering",
+      "openai",
+      "reddit"
+    ]
+  },
+  {
+    "title": "Midjourney Official Discord",
+    "platform": "Discord",
     "category": "Midjourney",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on midjourney discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/ai-prompt-engineering-&-genai-hub-telegram-1",
+    "memberCount": "2,100,000+ members",
+    "description": "Official Midjourney server featuring prompt crafting channels, daily theme generation, v6 prompt sharing, and creator showcases.",
+    "joinUrl": "https://discord.gg/midjourney",
     "tags": [
       "midjourney",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true
+      "generative-art",
+      "prompts",
+      "discord"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-discord-2",
-    "title": "Chatgpt Prompts Global Discord Hub",
+    "title": "r/StableDiffusion Community",
+    "platform": "Reddit",
+    "category": "Stable Diffusion",
+    "memberCount": "580,000+ members",
+    "description": "Premier open-source image generation hub covering SDXL, ComfyUI workflows, LoRA training, and negative prompt techniques.",
+    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
+    "tags": [
+      "stablediffusion",
+      "comfyui",
+      "open-source",
+      "reddit"
+    ]
+  },
+  {
+    "title": "OpenAI Official Community",
     "platform": "Discord",
     "category": "Chatgpt Prompts",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on chatgpt prompts discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/ai-prompt-engineering-&-genai-hub-discord-2",
+    "memberCount": "980,000+ members",
+    "description": "Official developer and user community for OpenAI API developers, GPT builders, prompt designers, and AI application creators.",
+    "joinUrl": "https://discord.gg/openai",
     "tags": [
-      "chatgpt-prompts",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true
+      "openai",
+      "api",
+      "chatgpt",
+      "discord"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-whatsapp-3",
-    "title": "Stable Diffusion Global WhatsApp Hub",
-    "platform": "WhatsApp",
+    "title": "r/Midjourney Prompt Hub",
+    "platform": "Reddit",
+    "category": "Midjourney",
+    "memberCount": "1,250,000+ members",
+    "description": "Active community sharing Midjourney prompt formulas, aspect ratio parameters, stylistic lighting tricks, and visual art.",
+    "joinUrl": "https://www.reddit.com/r/midjourney/",
+    "tags": [
+      "midjourney",
+      "promptcraft",
+      "ai-art",
+      "reddit"
+    ]
+  },
+  {
+    "title": "Stability AI Official Discord",
+    "platform": "Discord",
     "category": "Stable Diffusion",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on stable diffusion discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/ai-prompt-engineering-&-genai-hub-whatsapp-3",
+    "memberCount": "340,000+ members",
+    "description": "Official Stability AI ecosystem hub discussing Stable Video, Stable Audio, SD3 prompts, and latent diffusion architectures.",
+    "joinUrl": "https://discord.gg/stablediffusion",
     "tags": [
-      "stable-diffusion",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true
+      "stablediffusion",
+      "stabilityai",
+      "sd3",
+      "discord"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-reddit-4",
-    "title": "Llm Hackers Global Reddit Hub",
+    "title": "r/LocalLLaMA AI Guild",
     "platform": "Reddit",
     "category": "Llm Hackers",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on llm hackers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/ai-prompt-engineering-&-genai-hub-reddit-4",
+    "memberCount": "310,000+ members",
+    "description": "The definitive hub for local AI models, Ollama prompts, GGUF quantizations, fine-tuning, and open-weights LLM deployment.",
+    "joinUrl": "https://www.reddit.com/r/Localllama/",
     "tags": [
-      "llm-hackers",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "localllama",
+      "open-weights",
+      "llm",
+      "reddit"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-telegram-5",
-    "title": "Midjourney Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Midjourney",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on midjourney discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/ai-prompt-engineering-&-genai-hub-telegram-5",
-    "tags": [
-      "midjourney",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-discord-6",
-    "title": "Chatgpt Prompts Global Discord Hub",
+    "title": "Anthropic Claude Discord",
     "platform": "Discord",
     "category": "Chatgpt Prompts",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on chatgpt prompts discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/ai-prompt-engineering-&-genai-hub-discord-6",
+    "memberCount": "175,000+ members",
+    "description": "Official Anthropic community discussing Claude 3.5 Sonnet, constitutional AI, system prompt architectures, and Claude Code.",
+    "joinUrl": "https://discord.gg/anthropic",
     "tags": [
-      "chatgpt-prompts",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "claude",
+      "anthropic",
+      "prompt-design",
+      "discord"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-whatsapp-7",
-    "title": "Stable Diffusion Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Stable Diffusion",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on stable diffusion discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/ai-prompt-engineering-&-genai-hub-whatsapp-7",
+    "title": "r/PromptEngineering Forum",
+    "platform": "Reddit",
+    "category": "Chatgpt Prompts",
+    "memberCount": "140,000+ members",
+    "description": "Dedicated subreddit for chain-of-thought, few-shot prompting, meta-prompts, jailbreaks, and enterprise LLM prompt testing.",
+    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
     "tags": [
-      "stable-diffusion",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "prompt-engineering",
+      "few-shot",
+      "chain-of-thought",
+      "reddit"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-reddit-8",
-    "title": "Llm Hackers Global Reddit Hub",
+    "title": "Hugging Face Community",
+    "platform": "Discord",
+    "category": "Llm Hackers",
+    "memberCount": "240,000+ members",
+    "description": "The center of open-source machine learning and AI spaces, transformers, pipeline optimization, and model checkpoints.",
+    "joinUrl": "https://discord.gg/huggingface",
+    "tags": [
+      "huggingface",
+      "transformers",
+      "spaces",
+      "discord"
+    ]
+  },
+  {
+    "title": "r/ArtificialIntelligence Hub",
     "platform": "Reddit",
     "category": "Llm Hackers",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on llm hackers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/ai-prompt-engineering-&-genai-hub-reddit-8",
+    "memberCount": "1,600,000+ members",
+    "description": "Broad discussions on generative AI trends, prompt breakthroughs, algorithmic reasoning, and the future of artificial intelligence.",
+    "joinUrl": "https://www.reddit.com/r/ArtificialInteligence/",
     "tags": [
-      "llm-hackers",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "artificial-intelligence",
+      "genai",
+      "breakthroughs",
+      "reddit"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-telegram-9",
-    "title": "Midjourney Global Telegram Hub",
+    "title": "ChatGPT AI Telegram Network",
     "platform": "Telegram",
-    "category": "Midjourney",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on midjourney discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/ai-prompt-engineering-&-genai-hub-telegram-9",
-    "tags": [
-      "midjourney",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-discord-10",
-    "title": "Chatgpt Prompts Global Discord Hub",
-    "platform": "Discord",
     "category": "Chatgpt Prompts",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on chatgpt prompts discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/ai-prompt-engineering-&-genai-hub-discord-10",
+    "memberCount": "420,000+ members",
+    "description": "Instant broadcast and discussion channel delivering daily ChatGPT prompts, workflow snippets, and generative AI tool news.",
+    "joinUrl": "https://t.me/ChatGPT_AI",
     "tags": [
-      "chatgpt-prompts",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "chatgpt",
+      "prompts",
+      "telegram",
+      "daily-tips"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-whatsapp-11",
-    "title": "Stable Diffusion Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Stable Diffusion",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on stable diffusion discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/ai-prompt-engineering-&-genai-hub-whatsapp-11",
-    "tags": [
-      "stable-diffusion",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-reddit-12",
-    "title": "Llm Hackers Global Reddit Hub",
+    "title": "r/MachineLearning Research",
     "platform": "Reddit",
     "category": "Llm Hackers",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on llm hackers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/ai-prompt-engineering-&-genai-hub-reddit-12",
+    "memberCount": "2,900,000+ members",
+    "description": "Deep technical analysis of cutting-edge neural architectures, attention mechanisms, diffusion models, and prompt dynamics.",
+    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
     "tags": [
-      "llm-hackers",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "machine-learning",
+      "research",
+      "attention",
+      "reddit"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-telegram-13",
-    "title": "Midjourney Global Telegram Hub",
+    "title": "Civitai Creators Discord",
+    "platform": "Discord",
+    "category": "Stable Diffusion",
+    "memberCount": "180,000+ members",
+    "description": "Largest community for AI model creators, sharing LoRA weights, checkpoints, negative prompts, and text-to-image prompts.",
+    "joinUrl": "https://discord.gg/civitai",
+    "tags": [
+      "civitai",
+      "lora",
+      "checkpoints",
+      "discord"
+    ]
+  },
+  {
+    "title": "r/ClaudeAI Community",
+    "platform": "Reddit",
+    "category": "Chatgpt Prompts",
+    "memberCount": "125,000+ members",
+    "description": "Premier discussion space for Anthropic Claude, Artifacts prompts, long-context analysis, and developer benchmarks.",
+    "joinUrl": "https://www.reddit.com/r/ClaudeAI/",
+    "tags": [
+      "claude",
+      "anthropic",
+      "artifacts",
+      "reddit"
+    ]
+  },
+  {
+    "title": "Midjourney AI Art Telegram",
     "platform": "Telegram",
     "category": "Midjourney",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on midjourney discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/ai-prompt-engineering-&-genai-hub-telegram-13",
+    "memberCount": "210,000+ members",
+    "description": "Global Telegram channel showcasing curated Midjourney creations, seed parameters, style references, and prompt formulas.",
+    "joinUrl": "https://t.me/midjourney",
     "tags": [
       "midjourney",
+      "style-prompts",
       "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "ai-art"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-discord-14",
-    "title": "Chatgpt Prompts Global Discord Hub",
-    "platform": "Discord",
+    "title": "r/OpenAI Developer Hub",
+    "platform": "Reddit",
     "category": "Chatgpt Prompts",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on chatgpt prompts discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/ai-prompt-engineering-&-genai-hub-discord-14",
+    "memberCount": "920,000+ members",
+    "description": "Community dedicated to OpenAI developments, Sora video prompting, Whisper transcription, and function calling workflows.",
+    "joinUrl": "https://www.reddit.com/r/OpenAI/",
     "tags": [
-      "chatgpt-prompts",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "openai",
+      "sora",
+      "function-calling",
+      "reddit"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-whatsapp-15",
-    "title": "Stable Diffusion Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Stable Diffusion",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on stable diffusion discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/ai-prompt-engineering-&-genai-hub-whatsapp-15",
+    "title": "Replicate AI Builders Discord",
+    "platform": "Discord",
+    "category": "Llm Hackers",
+    "memberCount": "65,000+ members",
+    "description": "Cloud inference hub for running open-source models with API endpoints, Cog containers, and prompt tuning pipelines.",
+    "joinUrl": "https://discord.gg/replicate",
     "tags": [
-      "stable-diffusion",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "replicate",
+      "cloud-ai",
+      "api-inference",
+      "discord"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-reddit-16",
-    "title": "Llm Hackers Global Reddit Hub",
+    "title": "r/singularity Community",
     "platform": "Reddit",
     "category": "Llm Hackers",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on llm hackers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/ai-prompt-engineering-&-genai-hub-reddit-16",
+    "memberCount": "2,200,000+ members",
+    "description": "High-velocity forum tracking the exponential progression toward AGI, autonomous agents, reasoning models, and prompt automation.",
+    "joinUrl": "https://www.reddit.com/r/singularity/",
     "tags": [
-      "llm-hackers",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "singularity",
+      "agi",
+      "reasoning-models",
+      "reddit"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-telegram-17",
-    "title": "Midjourney Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Midjourney",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on midjourney discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/ai-prompt-engineering-&-genai-hub-telegram-17",
-    "tags": [
-      "midjourney",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-discord-18",
-    "title": "Chatgpt Prompts Global Discord Hub",
+    "title": "ElevenLabs Generative Audio Discord",
     "platform": "Discord",
     "category": "Chatgpt Prompts",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on chatgpt prompts discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/ai-prompt-engineering-&-genai-hub-discord-18",
+    "memberCount": "110,000+ members",
+    "description": "Official server for AI voice synthesis, speech prompt modulation, sound effect generation, and conversational voice bots.",
+    "joinUrl": "https://discord.gg/elevenlabs",
     "tags": [
-      "chatgpt-prompts",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "elevenlabs",
+      "voice-ai",
+      "speech-prompts",
+      "discord"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-whatsapp-19",
-    "title": "Stable Diffusion Global WhatsApp Hub",
-    "platform": "WhatsApp",
+    "title": "r/dalle2 Prompt Lab",
+    "platform": "Reddit",
+    "category": "Midjourney",
+    "memberCount": "380,000+ members",
+    "description": "Specialized subreddit for DALL-E 3 prompting tricks, inpainting, style transfers, and text rendering in generative imagery.",
+    "joinUrl": "https://www.reddit.com/r/dalle2/",
+    "tags": [
+      "dalle3",
+      "promptcraft",
+      "inpainting",
+      "reddit"
+    ]
+  },
+  {
+    "title": "Cohere NLP Community",
+    "platform": "Discord",
+    "category": "Llm Hackers",
+    "memberCount": "45,000+ members",
+    "description": "Enterprise NLP hub for RAG prompt architectures, Command-R models, multilingual embeddings, and reranking pipelines.",
+    "joinUrl": "https://discord.gg/cohere",
+    "tags": [
+      "cohere",
+      "rag",
+      "embeddings",
+      "discord"
+    ]
+  },
+  {
+    "title": "r/ComfyUI Node Masters",
+    "platform": "Reddit",
     "category": "Stable Diffusion",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on stable diffusion discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/ai-prompt-engineering-&-genai-hub-whatsapp-19",
+    "memberCount": "95,000+ members",
+    "description": "Node-based visual prompt workflow design, ControlNet conditioning, AnimateDiff pipelines, and SD custom nodes.",
+    "joinUrl": "https://www.reddit.com/r/comfyui/",
     "tags": [
-      "stable-diffusion",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "comfyui",
+      "controlnet",
+      "workflows",
+      "reddit"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-reddit-20",
-    "title": "Llm Hackers Global Reddit Hub",
+    "title": "LlamaIndex Official Discord",
+    "platform": "Discord",
+    "category": "Llm Hackers",
+    "memberCount": "52,000+ members",
+    "description": "Leading data framework community for LLMs, query pipelines, indexing strategies, agentic prompt reasoning, and RAG.",
+    "joinUrl": "https://discord.gg/llamaindex",
+    "tags": [
+      "llamaindex",
+      "rag",
+      "data-agents",
+      "discord"
+    ]
+  },
+  {
+    "title": "r/LangChain Developers",
     "platform": "Reddit",
     "category": "Llm Hackers",
-    "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on llm hackers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/ai-prompt-engineering-&-genai-hub-reddit-20",
+    "memberCount": "82,000+ members",
+    "description": "Developer forum for LangGraph multi-agent prompting, chain debugging, vector databases, and memory management.",
+    "joinUrl": "https://www.reddit.com/r/LangChain/",
     "tags": [
-      "llm-hackers",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "langchain",
+      "langgraph",
+      "agents",
+      "reddit"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-telegram-21",
-    "title": "Midjourney Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Midjourney",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on midjourney discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/ai-prompt-engineering-&-genai-hub-telegram-21",
-    "tags": [
-      "midjourney",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-discord-22",
-    "title": "Chatgpt Prompts Global Discord Hub",
+    "title": "Ollama Local AI Discord",
     "platform": "Discord",
-    "category": "Chatgpt Prompts",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on chatgpt prompts discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/ai-prompt-engineering-&-genai-hub-discord-22",
-    "tags": [
-      "chatgpt-prompts",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-whatsapp-23",
-    "title": "Stable Diffusion Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Stable Diffusion",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on stable diffusion discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/ai-prompt-engineering-&-genai-hub-whatsapp-23",
-    "tags": [
-      "stable-diffusion",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-reddit-24",
-    "title": "Llm Hackers Global Reddit Hub",
-    "platform": "Reddit",
     "category": "Llm Hackers",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on llm hackers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/ai-prompt-engineering-&-genai-hub-reddit-24",
+    "memberCount": "70,000+ members",
+    "description": "Community for running Llama 3, Mistral, and DeepSeek locally with Modelfile system prompts and CLI parameters.",
+    "joinUrl": "https://discord.gg/ollama",
     "tags": [
-      "llm-hackers",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "ollama",
+      "local-models",
+      "modelfile",
+      "discord"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-telegram-25",
-    "title": "Midjourney Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Midjourney",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on midjourney discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/ai-prompt-engineering-&-genai-hub-telegram-25",
-    "tags": [
-      "midjourney",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-discord-26",
-    "title": "Chatgpt Prompts Global Discord Hub",
-    "platform": "Discord",
-    "category": "Chatgpt Prompts",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on chatgpt prompts discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/ai-prompt-engineering-&-genai-hub-discord-26",
-    "tags": [
-      "chatgpt-prompts",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-whatsapp-27",
-    "title": "Stable Diffusion Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Stable Diffusion",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on stable diffusion discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/ai-prompt-engineering-&-genai-hub-whatsapp-27",
-    "tags": [
-      "stable-diffusion",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-reddit-28",
-    "title": "Llm Hackers Global Reddit Hub",
+    "title": "r/AIGeneratedArt Showcase",
     "platform": "Reddit",
-    "category": "Llm Hackers",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on llm hackers discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/ai-prompt-engineering-&-genai-hub-reddit-28",
-    "tags": [
-      "llm-hackers",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "ai-prompt-engineering-&-genai-hub-telegram-29",
-    "title": "Midjourney Global Telegram Hub",
-    "platform": "Telegram",
     "category": "Midjourney",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on midjourney discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/ai-prompt-engineering-&-genai-hub-telegram-29",
+    "memberCount": "260,000+ members",
+    "description": "Creative community analyzing aesthetic prompt keywords, camera settings, artistic mediums, and cross-model rendering.",
+    "joinUrl": "https://www.reddit.com/r/AIGeneratedArt/",
     "tags": [
-      "midjourney",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "ai-art",
+      "visual-prompts",
+      "creative",
+      "reddit"
+    ]
   },
   {
-    "id": "ai-prompt-engineering-&-genai-hub-discord-30",
-    "title": "Chatgpt Prompts Global Discord Hub",
+    "title": "Cursor AI Editor Discord",
     "platform": "Discord",
     "category": "Chatgpt Prompts",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on chatgpt prompts discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/ai-prompt-engineering-&-genai-hub-discord-30",
+    "memberCount": "95,000+ members",
+    "description": ".cursorrules system prompting, AI code generation shortcuts, composer mode, and developer workflows.",
+    "joinUrl": "https://discord.gg/cursor",
     "tags": [
-      "chatgpt-prompts",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
+      "cursor",
+      "coding-prompts",
+      "cursorrules",
+      "discord"
+    ]
+  },
+  {
+    "title": "Mistral AI Official Discord",
+    "platform": "Discord",
+    "category": "Llm Hackers",
+    "memberCount": "60,000+ members",
+    "description": "Official server for Mistral Large, Codestral, and open-weights instruction tuning, prompt templates, and le Chat.",
+    "joinUrl": "https://discord.gg/mistralai",
+    "tags": [
+      "mistral",
+      "codestral",
+      "instruction-tuning",
+      "discord"
+    ]
+  },
+  {
+    "title": "Together AI Cloud Community",
+    "platform": "Discord",
+    "category": "Llm Hackers",
+    "memberCount": "38,000+ members",
+    "description": "Fast inference engine community, fine-tuning recipes, speculative decoding prompts, and open-source models.",
+    "joinUrl": "https://discord.gg/togetherai",
+    "tags": [
+      "togetherai",
+      "fast-inference",
+      "open-source",
+      "discord"
+    ]
   }
 ]
