@@ -1,5 +1,24 @@
 [
   {
+    "id": "ai-prompts-generative-hub-telegram-20260912-1",
+    "title": "AI Insights & Research Feed",
+    "platform": "Telegram",
+    "category": "AI Research",
+    "memberCount": "72,000+ members",
+    "description": "Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.",
+    "joinUrl": "https://t.me/ai_insights",
+    "tags": [
+      "ai",
+      "research",
+      "telegram",
+      "models"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-12"
+  },
+  {
     "title": "r/ChatGPT Community",
     "platform": "Reddit",
     "category": "Chatgpt Prompts",
@@ -11,7 +30,8 @@
       "prompt-engineering",
       "openai",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Midjourney Official Discord",
@@ -25,7 +45,8 @@
       "generative-art",
       "prompts",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/StableDiffusion Community",
@@ -39,7 +60,8 @@
       "comfyui",
       "open-source",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "OpenAI Official Community",
@@ -53,7 +75,8 @@
       "api",
       "chatgpt",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/Midjourney Prompt Hub",
@@ -67,7 +90,8 @@
       "promptcraft",
       "ai-art",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Stability AI Official Discord",
@@ -81,7 +105,8 @@
       "stabilityai",
       "sd3",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/LocalLLaMA AI Guild",
@@ -95,7 +120,8 @@
       "open-weights",
       "llm",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Anthropic Claude Discord",
@@ -109,7 +135,8 @@
       "anthropic",
       "prompt-design",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/PromptEngineering Forum",
@@ -123,7 +150,8 @@
       "few-shot",
       "chain-of-thought",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Hugging Face Community",
@@ -131,13 +159,14 @@
     "category": "Llm Hackers",
     "memberCount": "240,000+ members",
     "description": "The center of open-source machine learning and AI spaces, transformers, pipeline optimization, and model checkpoints.",
-    "joinUrl": "https://discord.gg/huggingface",
+    "joinUrl": "https://discuss.huggingface.co",
     "tags": [
       "huggingface",
       "transformers",
       "spaces",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/ArtificialIntelligence Hub",
@@ -151,7 +180,8 @@
       "genai",
       "breakthroughs",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "ChatGPT AI Telegram Network",
@@ -165,7 +195,8 @@
       "prompts",
       "telegram",
       "daily-tips"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/MachineLearning Research",
@@ -179,7 +210,8 @@
       "research",
       "attention",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Civitai Creators Discord",
@@ -193,7 +225,8 @@
       "lora",
       "checkpoints",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/ClaudeAI Community",
@@ -207,7 +240,8 @@
       "anthropic",
       "artifacts",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Midjourney AI Art Telegram",
@@ -221,7 +255,8 @@
       "style-prompts",
       "telegram",
       "ai-art"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/OpenAI Developer Hub",
@@ -235,7 +270,8 @@
       "sora",
       "function-calling",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Replicate AI Builders Discord",
@@ -249,7 +285,8 @@
       "cloud-ai",
       "api-inference",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/singularity Community",
@@ -263,7 +300,8 @@
       "agi",
       "reasoning-models",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "ElevenLabs Generative Audio Discord",
@@ -277,7 +315,8 @@
       "voice-ai",
       "speech-prompts",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/dalle2 Prompt Lab",
@@ -291,7 +330,8 @@
       "promptcraft",
       "inpainting",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Cohere NLP Community",
@@ -305,7 +345,8 @@
       "rag",
       "embeddings",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/ComfyUI Node Masters",
@@ -319,7 +360,8 @@
       "controlnet",
       "workflows",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "LlamaIndex Official Discord",
@@ -333,7 +375,8 @@
       "rag",
       "data-agents",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/LangChain Developers",
@@ -347,7 +390,8 @@
       "langgraph",
       "agents",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Ollama Local AI Discord",
@@ -361,7 +405,8 @@
       "local-models",
       "modelfile",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "r/AIGeneratedArt Showcase",
@@ -375,7 +420,8 @@
       "visual-prompts",
       "creative",
       "reddit"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Cursor AI Editor Discord",
@@ -389,7 +435,8 @@
       "coding-prompts",
       "cursorrules",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Mistral AI Official Discord",
@@ -403,7 +450,8 @@
       "codestral",
       "instruction-tuning",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   },
   {
     "title": "Together AI Cloud Community",
@@ -417,6 +465,7 @@
       "fast-inference",
       "open-source",
       "discord"
-    ]
+    ],
+    "isTodaysPick": false
   }
 ]
