@@ -4,10 +4,17 @@
     <title>AI Prompt Engineering &amp; GenAI Hub</title>
     <link>https://jibranpcccc.github.io/ai-prompts-generative-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:00:12 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/ai-prompts-generative-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                <item>
+                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
+      <link>https://users.rust-lang.org</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-github-20261013-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:12 GMT</pubDate>
+      <description>Newly verified community added to AI Prompt Engineering &amp; GenAI Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
       <link>https://discord.gg/tailwind</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-discord-20261011-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-github-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:02:10 GMT</pubDate>
       <description>Newly verified community added to AI Prompt Engineering &amp; GenAI Hub: Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: LangChain Official Discord (Discord)</title>
-      <link>https://github.com/langchain-ai/langchain/discussions</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-discord-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 08:29:50 GMT</pubDate>
-      <description>Newly verified community added to AI Prompt Engineering &amp; GenAI Hub: Community dedicated to building LLM applications with LangChain, LangSmith, and LangGraph agent architectures.</description>
     </item>
   </channel>
 </rss>
