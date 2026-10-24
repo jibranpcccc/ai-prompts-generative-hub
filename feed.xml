@@ -4,10 +4,17 @@
     <title>AI Prompt Engineering &amp; GenAI Hub</title>
     <link>https://jibranpcccc.github.io/ai-prompts-generative-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 06:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:00:12 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/ai-prompts-generative-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
+      <link>https://t.me/cloud_native_hub</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-telegram-20261024-1-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:12 GMT</pubDate>
+      <description>Newly verified community added to AI Prompt Engineering &amp; GenAI Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
       <link>https://t.me/devops_channel</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-telegram-20261023-1-2026-10-23</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-telegram-20260924-1-2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 06:00:15 GMT</pubDate>
       <description>Newly verified community added to AI Prompt Engineering &amp; GenAI Hub: Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Rust Programming Language Discord (Discord)</title>
-      <link>https://discord.gg/rust-lang</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-discord-20260923-1-2026-09-23</guid>
-      <pubDate>Wed, 23 Sep 2026 06:00:13 GMT</pubDate>
-      <description>Newly verified community added to AI Prompt Engineering &amp; GenAI Hub: Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.</description>
     </item>
   </channel>
 </rss>
