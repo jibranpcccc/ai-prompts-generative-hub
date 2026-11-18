@@ -1,5 +1,22 @@
 [
   {
+    "title": "r/ChatGPT Community",
+    "platform": "Reddit",
+    "category": "Chatgpt Prompts",
+    "memberCount": "5,400,000+ members",
+    "description": "World's largest ChatGPT community for prompt engineering, workflow automation, custom GPT showcases, and OpenAI model discussions.",
+    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "tags": [
+      "chatgpt",
+      "prompt-engineering",
+      "openai",
+      "reddit"
+    ],
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18",
+    "featured": true
+  },
+  {
     "id": "ai-prompts-generative-hub-forum-20261102-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -853,21 +870,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "title": "r/ChatGPT Community",
-    "platform": "Reddit",
-    "category": "Chatgpt Prompts",
-    "memberCount": "5,400,000+ members",
-    "description": "World's largest ChatGPT community for prompt engineering, workflow automation, custom GPT showcases, and OpenAI model discussions.",
-    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
-    "tags": [
-      "chatgpt",
-      "prompt-engineering",
-      "openai",
-      "reddit"
-    ],
-    "isTodaysPick": false
   },
   {
     "title": "Midjourney Official Discord",
