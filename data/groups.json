@@ -1,5 +1,22 @@
 [
   {
+    "title": "Midjourney Official Discord",
+    "platform": "Discord",
+    "category": "Midjourney",
+    "memberCount": "2,100,000+ members",
+    "description": "Official Midjourney server featuring prompt crafting channels, daily theme generation, v6 prompt sharing, and creator showcases.",
+    "joinUrl": "https://discord.gg/midjourney",
+    "tags": [
+      "midjourney",
+      "generative-art",
+      "prompts",
+      "discord"
+    ],
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19",
+    "featured": true
+  },
+  {
     "title": "r/ChatGPT Community",
     "platform": "Reddit",
     "category": "Chatgpt Prompts",
@@ -12,7 +29,7 @@
       "openai",
       "reddit"
     ],
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18",
     "featured": true
   },
@@ -870,21 +887,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "title": "Midjourney Official Discord",
-    "platform": "Discord",
-    "category": "Midjourney",
-    "memberCount": "2,100,000+ members",
-    "description": "Official Midjourney server featuring prompt crafting channels, daily theme generation, v6 prompt sharing, and creator showcases.",
-    "joinUrl": "https://discord.gg/midjourney",
-    "tags": [
-      "midjourney",
-      "generative-art",
-      "prompts",
-      "discord"
-    ],
-    "isTodaysPick": false
   },
   {
     "title": "r/StableDiffusion Community",
