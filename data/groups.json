@@ -1,5 +1,22 @@
 [
   {
+    "title": "r/StableDiffusion Community",
+    "platform": "Reddit",
+    "category": "Stable Diffusion",
+    "memberCount": "580,000+ members",
+    "description": "Premier open-source image generation hub covering SDXL, ComfyUI workflows, LoRA training, and negative prompt techniques.",
+    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
+    "tags": [
+      "stablediffusion",
+      "comfyui",
+      "open-source",
+      "reddit"
+    ],
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20",
+    "featured": true
+  },
+  {
     "title": "Midjourney Official Discord",
     "platform": "Discord",
     "category": "Midjourney",
@@ -12,7 +29,7 @@
       "prompts",
       "discord"
     ],
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19",
     "featured": true
   },
@@ -887,21 +904,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "title": "r/StableDiffusion Community",
-    "platform": "Reddit",
-    "category": "Stable Diffusion",
-    "memberCount": "580,000+ members",
-    "description": "Premier open-source image generation hub covering SDXL, ComfyUI workflows, LoRA training, and negative prompt techniques.",
-    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
-    "tags": [
-      "stablediffusion",
-      "comfyui",
-      "open-source",
-      "reddit"
-    ],
-    "isTodaysPick": false
   },
   {
     "title": "OpenAI Official Community",
