@@ -1,5 +1,22 @@
 [
   {
+    "title": "OpenAI Official Community",
+    "platform": "Discord",
+    "category": "Chatgpt Prompts",
+    "memberCount": "980,000+ members",
+    "description": "Official developer and user community for OpenAI API developers, GPT builders, prompt designers, and AI application creators.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "openai",
+      "api",
+      "chatgpt",
+      "discord"
+    ],
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21",
+    "featured": true
+  },
+  {
     "title": "r/StableDiffusion Community",
     "platform": "Reddit",
     "category": "Stable Diffusion",
@@ -12,7 +29,7 @@
       "open-source",
       "reddit"
     ],
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20",
     "featured": true
   },
@@ -904,21 +921,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "title": "OpenAI Official Community",
-    "platform": "Discord",
-    "category": "Chatgpt Prompts",
-    "memberCount": "980,000+ members",
-    "description": "Official developer and user community for OpenAI API developers, GPT builders, prompt designers, and AI application creators.",
-    "joinUrl": "https://discord.gg/openai",
-    "tags": [
-      "openai",
-      "api",
-      "chatgpt",
-      "discord"
-    ],
-    "isTodaysPick": false
   },
   {
     "title": "r/Midjourney Prompt Hub",
