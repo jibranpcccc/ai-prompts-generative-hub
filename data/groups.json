@@ -1,5 +1,22 @@
 [
   {
+    "title": "r/Midjourney Prompt Hub",
+    "platform": "Reddit",
+    "category": "Midjourney",
+    "memberCount": "1,250,000+ members",
+    "description": "Active community sharing Midjourney prompt formulas, aspect ratio parameters, stylistic lighting tricks, and visual art.",
+    "joinUrl": "https://www.reddit.com/r/midjourney/",
+    "tags": [
+      "midjourney",
+      "promptcraft",
+      "ai-art",
+      "reddit"
+    ],
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22",
+    "featured": true
+  },
+  {
     "title": "OpenAI Official Community",
     "platform": "Discord",
     "category": "Chatgpt Prompts",
@@ -12,7 +29,7 @@
       "chatgpt",
       "discord"
     ],
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21",
     "featured": true
   },
@@ -921,21 +938,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "title": "r/Midjourney Prompt Hub",
-    "platform": "Reddit",
-    "category": "Midjourney",
-    "memberCount": "1,250,000+ members",
-    "description": "Active community sharing Midjourney prompt formulas, aspect ratio parameters, stylistic lighting tricks, and visual art.",
-    "joinUrl": "https://www.reddit.com/r/midjourney/",
-    "tags": [
-      "midjourney",
-      "promptcraft",
-      "ai-art",
-      "reddit"
-    ],
-    "isTodaysPick": false
   },
   {
     "title": "Stability AI Official Discord",
