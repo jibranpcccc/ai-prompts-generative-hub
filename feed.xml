@@ -4,10 +4,17 @@
     <title>AI Prompt Engineering &amp; GenAI Hub</title>
     <link>https://jibranpcccc.github.io/ai-prompts-generative-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 08:44:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:42:23 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/ai-prompts-generative-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Stability AI Official Discord (Discord)</title>
+      <link>https://discord.gg/stablediffusion</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#comm-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:42:23 GMT</pubDate>
+      <description>Newly verified community added to AI Prompt Engineering &amp; GenAI Hub: Official Stability AI ecosystem hub discussing Stable Video, Stable Audio, SD3 prompts, and latent diffusion architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/Midjourney Prompt Hub (Reddit)</title>
       <link>https://www.reddit.com/r/midjourney/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#comm-2026-11-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-forum-20261025-1-2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 06:00:13 GMT</pubDate>
       <description>Newly verified community added to AI Prompt Engineering &amp; GenAI Hub: Official forum for Terraform modules, Vault secret management, Nomad orchestration, and Consul networking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
-      <link>https://t.me/cloud_native_hub</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ai-prompts-generative-hub/#ai-prompts-generative-hub-telegram-20261024-1-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:12 GMT</pubDate>
-      <description>Newly verified community added to AI Prompt Engineering &amp; GenAI Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
     </item>
   </channel>
 </rss>

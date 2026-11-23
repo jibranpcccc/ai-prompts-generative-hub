@@ -1,5 +1,22 @@
 [
   {
+    "title": "Stability AI Official Discord",
+    "platform": "Discord",
+    "category": "Stable Diffusion",
+    "memberCount": "340,000+ members",
+    "description": "Official Stability AI ecosystem hub discussing Stable Video, Stable Audio, SD3 prompts, and latent diffusion architectures.",
+    "joinUrl": "https://discord.gg/stablediffusion",
+    "tags": [
+      "stablediffusion",
+      "stabilityai",
+      "sd3",
+      "discord"
+    ],
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23",
+    "featured": true
+  },
+  {
     "title": "r/Midjourney Prompt Hub",
     "platform": "Reddit",
     "category": "Midjourney",
@@ -12,7 +29,7 @@
       "ai-art",
       "reddit"
     ],
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22",
     "featured": true
   },
@@ -938,21 +955,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "title": "Stability AI Official Discord",
-    "platform": "Discord",
-    "category": "Stable Diffusion",
-    "memberCount": "340,000+ members",
-    "description": "Official Stability AI ecosystem hub discussing Stable Video, Stable Audio, SD3 prompts, and latent diffusion architectures.",
-    "joinUrl": "https://discord.gg/stablediffusion",
-    "tags": [
-      "stablediffusion",
-      "stabilityai",
-      "sd3",
-      "discord"
-    ],
-    "isTodaysPick": false
   },
   {
     "title": "r/LocalLLaMA AI Guild",
