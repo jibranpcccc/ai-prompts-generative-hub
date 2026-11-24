@@ -1,5 +1,22 @@
 [
   {
+    "title": "r/LocalLLaMA AI Guild",
+    "platform": "Reddit",
+    "category": "Llm Hackers",
+    "memberCount": "310,000+ members",
+    "description": "The definitive hub for local AI models, Ollama prompts, GGUF quantizations, fine-tuning, and open-weights LLM deployment.",
+    "joinUrl": "https://www.reddit.com/r/Localllama/",
+    "tags": [
+      "localllama",
+      "open-weights",
+      "llm",
+      "reddit"
+    ],
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24",
+    "featured": true
+  },
+  {
     "title": "Stability AI Official Discord",
     "platform": "Discord",
     "category": "Stable Diffusion",
@@ -12,7 +29,7 @@
       "sd3",
       "discord"
     ],
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23",
     "featured": true
   },
@@ -955,21 +972,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "title": "r/LocalLLaMA AI Guild",
-    "platform": "Reddit",
-    "category": "Llm Hackers",
-    "memberCount": "310,000+ members",
-    "description": "The definitive hub for local AI models, Ollama prompts, GGUF quantizations, fine-tuning, and open-weights LLM deployment.",
-    "joinUrl": "https://www.reddit.com/r/Localllama/",
-    "tags": [
-      "localllama",
-      "open-weights",
-      "llm",
-      "reddit"
-    ],
-    "isTodaysPick": false
   },
   {
     "title": "Anthropic Claude Discord",
