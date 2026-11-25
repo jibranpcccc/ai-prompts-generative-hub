@@ -1,5 +1,22 @@
 [
   {
+    "title": "Anthropic Claude Discord",
+    "platform": "Discord",
+    "category": "Chatgpt Prompts",
+    "memberCount": "175,000+ members",
+    "description": "Official Anthropic community discussing Claude 3.5 Sonnet, constitutional AI, system prompt architectures, and Claude Code.",
+    "joinUrl": "https://discord.gg/anthropic",
+    "tags": [
+      "claude",
+      "anthropic",
+      "prompt-design",
+      "discord"
+    ],
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25",
+    "featured": true
+  },
+  {
     "title": "r/LocalLLaMA AI Guild",
     "platform": "Reddit",
     "category": "Llm Hackers",
@@ -12,7 +29,7 @@
       "llm",
       "reddit"
     ],
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24",
     "featured": true
   },
@@ -972,21 +989,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "title": "Anthropic Claude Discord",
-    "platform": "Discord",
-    "category": "Chatgpt Prompts",
-    "memberCount": "175,000+ members",
-    "description": "Official Anthropic community discussing Claude 3.5 Sonnet, constitutional AI, system prompt architectures, and Claude Code.",
-    "joinUrl": "https://discord.gg/anthropic",
-    "tags": [
-      "claude",
-      "anthropic",
-      "prompt-design",
-      "discord"
-    ],
-    "isTodaysPick": false
   },
   {
     "title": "r/PromptEngineering Forum",
