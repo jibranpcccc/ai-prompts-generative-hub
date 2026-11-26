@@ -1,5 +1,22 @@
 [
   {
+    "title": "r/PromptEngineering Forum",
+    "platform": "Reddit",
+    "category": "Chatgpt Prompts",
+    "memberCount": "140,000+ members",
+    "description": "Dedicated subreddit for chain-of-thought, few-shot prompting, meta-prompts, jailbreaks, and enterprise LLM prompt testing.",
+    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
+    "tags": [
+      "prompt-engineering",
+      "few-shot",
+      "chain-of-thought",
+      "reddit"
+    ],
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26",
+    "featured": true
+  },
+  {
     "title": "Anthropic Claude Discord",
     "platform": "Discord",
     "category": "Chatgpt Prompts",
@@ -12,7 +29,7 @@
       "prompt-design",
       "discord"
     ],
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25",
     "featured": true
   },
@@ -989,21 +1006,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "title": "r/PromptEngineering Forum",
-    "platform": "Reddit",
-    "category": "Chatgpt Prompts",
-    "memberCount": "140,000+ members",
-    "description": "Dedicated subreddit for chain-of-thought, few-shot prompting, meta-prompts, jailbreaks, and enterprise LLM prompt testing.",
-    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
-    "tags": [
-      "prompt-engineering",
-      "few-shot",
-      "chain-of-thought",
-      "reddit"
-    ],
-    "isTodaysPick": false
   },
   {
     "title": "Hugging Face Community",
